@@ -9,8 +9,10 @@ using X11,EXTREME LIGHTWEIGHT
 ONLY 1 file, but can run 90% CHIP-8 GAMES (NOT SUPPORT XO-CHIP SUPER-CHIP)
 
 WORK FOR LINUX,KEYBOARD:
-
-MODERN: 1 2 3 4 Q W E R A S D F Z X C V
-
-ORIGNAL:1 2 3 C 4 5 6 D 7 8 9 E A 0 B F
+| CHIP-8 Key | PC Keyboard |
+| :---: | :---: |
+| 1, 2, 3, C | `1`, `2`, `3`, `4` |
+| 4, 5, 6, D | `q`, `w`, `e`, `r` |
+| 7, 8, 9, E | `a`, `s`, `d`, `f` |
+| A, 0, B, F | `z`, `x`, `c`, `v` | |
 # LOVE IT!
